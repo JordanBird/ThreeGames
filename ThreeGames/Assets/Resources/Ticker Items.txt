@@ -1,0 +1,23 @@
+<!Instructions
+You can spawn a tougher MP for a party by tweeting '#NVAElection [Party Name]'. For example: #NVAElection NVAParty.
+You can call order in the House of Commons by tweeting '#NVAElection Order'!
+You can call order in the House of Commons by pressing the button!
+Help your party out by tweeting their name to #NVAElection!
+Spawn a super-politician by tweeting a party name to #NVAElection!
+Try pressing the button to stop the MPs from fighting...
+You can call ORDER by pressing the button in the middle of the room!
+You can help your favourite party by tweeting their name to #NVAElection!
+
+<!Information
+Natural Election uses live Twitter data to create an interactive exhibit. Each MP represents a tweet from the #GE2015 hashtag that makes reference to a party.
+You are currently seeing a visualisation of the political layout of Twitter right now!
+Are you registered to vote? Make sure you visit your polling station before 10pm today!
+This game uses LIVE twitter data to generate all its content!
+
+<!Credits
+Game design by Sean Oxspring (@OxyOxspring) and Kieran Hicks (@Kieran_Hicks).
+Programming by Jordan Bird (@Jordan94jb) and Alex Saye (@Abengoshis).
+Art by Amelia George (@MiruzaLaBeeb) and Jeff Strider (@NippleSphinx).
+Published by Hitpoint Games.
+Natural Election was made by Sean Oxspring (@OxyOxspring), Kieran Hicks (@Kieran_Hicks), Jordan Bird (@Jordan94jb), Alex Saye (@Abengoshis), Amelia George (@MiruzaLaBeeb) and Jeff Strider (@NippleSphinx).
+www.hitpointgames.com
